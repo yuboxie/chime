@@ -1,7 +1,7 @@
 # CHIME: CHinese Internet Meme Explanation Dataset
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2510.00567)
-[![Paper](https://img.shields.io/badge/Paper-ACL_Anthology-red)](https://aclanthology.org/2025.emnlp-main.863/)
+[![Paper](https://img.shields.io/badge/Paper-EMNLP_2025-red)](https://aclanthology.org/2025.emnlp-main.863/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green)](https://github.com/yuboxie/chime)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
