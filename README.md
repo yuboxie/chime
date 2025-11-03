@@ -1,6 +1,7 @@
 # CHIME: CHinese Internet Meme Explanation Dataset
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2510.00567)
+[![Paper](https://img.shields.io/badge/Paper-ACL_Anthology-red)](https://aclanthology.org/2025.emnlp-main.863/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green)](https://github.com/yuboxie/chime)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
@@ -128,11 +129,20 @@ chime/
 If you use the CHIME dataset in your research, please cite our paper:
 
 ```bibtex
-@article{xie2025chime,
-  title={Are Large Language Models Chronically Online Surfers? A Dataset for Chinese Internet Meme Explanation},
-  author={Xie, Yubo and Wang, Chenkai and Ma, Zongyang and Miao, Fahui},
-  journal={arXiv preprint arXiv:2510.00567},
-  year={2025}
+@inproceedings{xie-etal-2025-large,
+    title = "Are Large Language Models Chronically Online Surfers? A Dataset for {C}hinese {I}nternet Meme Explanation",
+    author = "Xie, Yubo  and
+      Wang, Chenkai  and
+      Ma, Zongyang  and
+      Miao, Fahui",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.863/",
+    pages = "17073--17094",
+    ISBN = "979-8-89176-332-6"
 }
 ```
 
