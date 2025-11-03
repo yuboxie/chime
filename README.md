@@ -141,8 +141,7 @@ If you use the CHIME dataset in your research, please cite our paper:
     address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.emnlp-main.863/",
-    pages = "17073--17094",
-    ISBN = "979-8-89176-332-6"
+    pages = "17073--17094"
 }
 ```
 
